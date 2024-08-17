@@ -1,4 +1,4 @@
-# Zomato-Data-Anlysis
+# Zomato-Data-Analysis
 *Zomato Bangalore Exploratory Data Analysis*
 
 In this project, I conducted an exploratory data analysis on Zomato Bangalore's dataset to uncover insights about the restaurant industry in the city. The dataset contained information on various attributes such as restaurant names, cuisines, locations, ratings, votes, average cost for two, and other relevant factors. Key objectives of the analysis included understanding the distribution of restaurant types, popular cuisines, price ranges, and customer ratings.
